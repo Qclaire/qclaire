@@ -1,4 +1,5 @@
 ### Hi there 👋
+## Welcome to my coding world, I am Oswald, and Aspiring fullstack developer. I code anything that needs coding in whatever language needed.
 
 <!--
 **Qclaire/qclaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
